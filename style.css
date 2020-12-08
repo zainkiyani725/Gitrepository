@@ -1,0 +1,329 @@
+
+body{
+    font-size: 16px;
+    line-height: 26px;
+    font-family: "INGMeWeb-Regular",Arial,sans-serif;
+    position:relative;
+    max-width:940px;
+    margin-left: 13%;
+}
+
+.navbar-brand{
+    margin-top: 20px;
+}
+.navbar-brand img {
+    border-radius: 0;
+    border: none;
+display:block;
+height: auto;
+width: 50%;
+
+}
+/*  */
+}
+#wrapper{
+    position: relative;
+    margin: 0 auto;
+    padding: 0;
+    height: auto;
+    min-height: 101%;
+    width: 100%;
+    min-width: 300px;
+    overflow: hidden;
+}
+.dropdown-menu{
+    width:97%;
+    border-radius:3%;
+    
+}
+.dropdown-item 
+{
+    border-bottom: solid;
+    border-width: 1px;
+    color: black;
+    width:30%;
+    font-size:small;
+}
+
+.nav-link{
+    padding: 7px;
+    
+  color: black;
+  border-right: 8px solid black;
+  
+}
+.footer-item{
+    margin-top: 58%;
+    color:#ff6200;
+    font-size: large;
+    font-weight: bold;
+}
+.footer-itm{
+    margin-top: 35%;
+    color:#ff6200;
+    font-size: large;
+    font-weight: bold;
+}
+.size
+{
+    font-size: small;
+}
+.link:hover{
+color: blue;
+}
+.fb:hover{
+color: blue;
+}
+.twi:hover {
+    color: aqua;
+}
+.ho{
+    padding: 2%;
+    background: gray;
+    color: white;
+}
+.ho:hover{
+    color: #ff6200;
+}
+
+ul{
+    list-style: none;
+}
+   
+.lt{
+    padding-top: 6%;
+    padding-left: 0%;
+    font-size: small;
+
+}
+.lt:hover
+{
+    color: #ff6200;
+
+}
+.sml{
+    font-size: small;
+}
+.icn{
+ 
+  padding: 2%;
+  background: gray;
+  color: white;
+  
+}
+.mrg{
+    margin-left: 35%;
+}
+.pos{
+    background: #ff6200;
+    width: 35%;
+    position: absolute;
+    height: 12.8%;
+
+}
+.chng{
+    font-size: 16px;
+    padding-bottom: 11%;
+}
+.bdy{
+
+    color: #ff6200;
+}
+.bdr{
+    border-style: solid;
+    border-width: 1px;
+}
+.new{
+margin-top: 3%;
+}
+.img-h{
+    width: 100%;
+    height: 94%;
+    border-radius:2%;
+}
+.pdn{
+    padding: 0;
+}
+.hov{
+    background: #ff6200;
+   color: white;
+}
+.hov:hover{
+background: white;
+color: black;
+}
+.siz{
+    color:#ff6200 ;
+    margin-left: 6%;
+}
+.marg{
+    margin-left: 6%;
+}
+strong 
+{
+    font-weight:inherit;
+}
+span{
+font-size: medium;   
+    color:green;
+}
+.clr{
+    color:#ff6200  ;
+}
+.colr{
+    font-weight: bold;
+    color:#ff6200 ;
+}
+.list-group-item {
+padding-top:1.5rem;
+padding-bottom: .5rem;
+}
+.padd{
+    padding-top: 0;
+}
+.read{
+    background: #ff6200;
+    color: white;
+}
+.read:hover{
+    background:white;
+    color: black;
+}
+.cri{
+    padding-top:12% ;
+    padding-left:13% ;
+    width: 86%;
+}
+
+.outline{
+    outline-style: solid;
+    outline-width: 1px;
+}
+.card{
+    border-radius: 3%;
+}
+.ch{
+    color: #ff6200;
+    font-weight: bold;
+}
+.row h4{
+    color: #ff6200;
+    text-align: center;
+}
+.bgrnd{
+    display: block;
+    z-index: -1;
+    width:100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #F0F0F0;
+}
+.align{
+    color: #ff6200;
+    text-align: center;
+    PADDING-TOP: 3%;
+    PADDING-BOTTOM: 3%;
+    font-weight: bold;
+    font-size: x-large;
+}
+.arr{
+    color: #ff6200;
+    font-size:medium ;
+}
+.slice{
+    color: black;
+    margin-bottom: 3%;
+}
+.top{
+    margin-top: 6%;
+    margin-bottom:3%;
+}
+.orn{
+    color: #ff6200;
+    font-weight: bold;
+}
+.styl{
+    margin-top: 6%;
+    padding-bottom: 3%;
+}
+.unorder{
+    padding: 0;
+}
+.back{
+    background: #ff6200;
+    margin-top: -75px;
+}
+.bck{
+    background: #ff6200;
+    margin-top: -63px;
+}
+.chngs{
+    font-size: large;
+    
+}
+.coro{
+    padding: 6%;
+    color:#ff6200;
+    font-weight: bold;
+  
+}
+.cor{
+    padding: 6%;
+    color: #ff6200;
+    font-weight: bold;
+}
+.psl{
+    color:black;
+    margin-bottom: 5%;
+}
+.cordn{
+    margin-left:3%;
+    color: #ff6200;
+    padding: 4%;
+    font-weight: bold;
+    padding-bottom: 0;
+}
+.design{
+    color: #ff6200;
+}
+.flt{
+    color: #ff6200;
+    float: right;
+}
+.calendar-items {
+    list-style: none;
+    padding-left: 0;
+    margin: 15px 0 25px 0;}
+    ul {
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 40px;
+    }
+    .calendar-items li .calendar-icon {
+        width: 48px;
+        height: 48px;
+        font-size: 23px;
+        font-family: "INGMeWeb-Bold",Arial,sans-serif;
+        background-color: #ff6200;
+        color: #fff;
+        text-align: center;
+        position: relative;
+        top: 0;
+        left: 0;
+        border-radius: 6px;
+    }
+    
+.calendar-items li {
+    position: relative;
+    min-height: 48px;
+    padding: 0 0 0 25px;
+    margin-bottom: 15px;
+}
+.black{
+    color: black;
+}
